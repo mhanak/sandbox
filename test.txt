@@ -2,3 +2,4 @@ hello world
 
 added on master
 
+continued on master while branch_a exists
