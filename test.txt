@@ -1,11 +1,6 @@
 hello world
 
 added on master
-
-<<<<<<< HEAD
-continued on master while branch_a exists
-=======
 added on branch_a
 
-
->>>>>>> branch_a
+continued on master while branch_a exists
